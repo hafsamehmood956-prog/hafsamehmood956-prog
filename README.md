@@ -1,16 +1,19 @@
-## Hi there 👋
+# ⚡ Hi, I'm Hafsa Mehmood Ahmad Khan!
 
-<!--
-**hafsamehmood956-prog/hafsamehmood956-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A driven **Data Science Student** at UET Lahore, passionate about building intelligent systems, data modeling, and engineering robust backend structures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me:
+- 📊 **Data Science:** Focused on statistical analysis, data cleaning, and prepping for AI/ML workflows.
+- ⚙️ **Backend & Databases:** Architecting secure databases using SQL Server and implementing structured backend logic.
+- 🎨 **Interests:** Prompt Engineering, UI/UX Design, and interactive full-stack logic.
+
+### 🛠️ Tech Stack & Skills:
+- **Languages:** Python, C#, SQL (T-SQL)
+- **Databases & Tools:** Microsoft SQL Server, Git/GitHub, .NET Core
+
+---
+
+### 🎯 Highlighted Academic Project:
+* **[Z-Apocalypse](https://github.com/hafsamehmood956-prog/Z-Apocalypse):** A full-stack university project featuring a 3D environment with secure player progression managed through a SQL Server database backend and C# .NET Core REST API.
